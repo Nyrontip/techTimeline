@@ -1,0 +1,26 @@
+table {
+  height: 100vh;
+}
+
+table nav {
+  width: 100vw;
+  height: 10px;
+}
+
+tr {
+  background-color: green;
+  border: solid 1px #000;
+}
+
+ul {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+  list-style-type: none;
+  background-color: aqua;
+}
+
+td {
+  background-color: yellow;
+}
